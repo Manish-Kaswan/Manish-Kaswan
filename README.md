@@ -1,4 +1,5 @@
-## Hi there 👋
+Hi, I'm Manish. I work as a data engineer, mostly with SQL, Python and Azure.
+I'm currently learning data modeling and PySpark.
 
 <!--
 **Manish-Kaswan/Manish-Kaswan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
